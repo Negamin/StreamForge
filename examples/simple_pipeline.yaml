@@ -1,0 +1,5 @@
+pipeline:
+  source: "memory://simple"
+  transformations:
+    - "internal/plugins/uppercase.so"
+  sink: "memory://simple"
