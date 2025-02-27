@@ -14,7 +14,7 @@ StreamForge é um pipeline de processamento de dados baseado em plugins para tra
 
 ### 1️⃣ **Clone o repositório**
 ```sh
- git clone https://github.com/seu-usuario/StreamForge.git
+ git clone https://github.com/Negamin/StreamForge.git
  cd StreamForge
 ```
 
